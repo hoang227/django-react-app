@@ -1,0 +1,5 @@
+{
+	"cSpell.words": ["corsheaders", "dotenv", "simplejwt"],
+	"editor.tabSize": 4,
+	"editor.useTabStops": true
+}
